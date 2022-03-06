@@ -1,10 +1,4 @@
-<#
 
-    Major part of this script is re use from Patrick Gruenauer work.
-    Here is the link to his excellent work https://sid-500.com/2018/05/22/active-directory-domain-services-section-version-1-1/
-
-
-#>
 $cred=Get-Credential -Message 'Enter Username and Password of a Member of the Domain Admins Group'
 
 $avTest ='X5O!P%@AP[4\PZX54(P^)7CC)7}$EICAR-STANDARD-ANTIVIRUS-TEST-FILE!$H+H*'
